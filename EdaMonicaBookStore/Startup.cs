@@ -1,4 +1,4 @@
-using EdaMonicaBookStore.Data;
+using EdaMonicaBookStore.DataAccess.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -43,6 +43,7 @@ namespace EdaMonicaBookStore
             {
                 app.UseDeveloperExceptionPage();
                 app.UseDatabaseErrorPage();
+                app.UseMigrationsEndPoint();
             }
             else
             {

@@ -1,6 +1,6 @@
 using System;
 
-namespace EdaMonicaBookStore.Models
+namespace EdaMonicaBookStore.Models.ViewModels
 {
     public class ErrorViewModel
     {
