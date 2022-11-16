@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace EdaMonicaBookStore.DataAccess
+namespace EdaMonicaBookStore.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
