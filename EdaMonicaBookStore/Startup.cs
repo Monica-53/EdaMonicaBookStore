@@ -65,7 +65,7 @@ namespace EdaMonicaBookStore
                 endpoints.MapControllerRoute(
                     name: "areas",
                     //pattern: "{controller=Home}/{action=Index}/{id?}");
-                    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{area:Customer}/{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
             });
         }
