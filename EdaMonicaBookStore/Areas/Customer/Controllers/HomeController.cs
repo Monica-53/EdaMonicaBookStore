@@ -10,6 +10,8 @@ using System.Threading.Tasks;
 
 namespace EdaMonicaBookStore.Controllers
 {
+    [Area("Customer")]
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
