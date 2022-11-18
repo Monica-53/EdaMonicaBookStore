@@ -90,4 +90,6 @@ I have an error saying "Exception has been thrown by the target of an invocation
 
 MissingMethodException: Method not found: 'Boolean Microsoft.EntityFrameworkCore.Migrations.IMigrationsModelDiffer.HasDifferences(Microsoft.EntityFrameworkCore.Metadata.IModel, Microsoft.EntityFrameworkCore.Metadata.IModel)'.
 Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2022-11-18 At 1:27 I think i have finished part-1 and committed the changes
 
