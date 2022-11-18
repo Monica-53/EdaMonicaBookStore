@@ -92,4 +92,7 @@ MissingMethodException: Method not found: 'Boolean Microsoft.EntityFrameworkCore
 Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2022-11-18 At 1:27 I think i have finished part-1 and committed the changes
-
+-------------------------------------------------------------------------------------------------------------------------------2022-11-18 3:43
+2022-11-18 3:44PM started with the second part
+packagemanager console add-migration AdddefaultIdentityMigration
+20221118204111_AddDefaultIdentityMigration.cs
