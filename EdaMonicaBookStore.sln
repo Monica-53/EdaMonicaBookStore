@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EdaMonicaBookStore", "EdaMonicaBookStore\EdaMonicaBookStore.csproj", "{5C529373-2C3A-4A6C-B966-CA2E691AE2A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdaMonicaBookStore.DataAccess", "EdaMonicaBookStore.DataAccess\EdaMonicaBookStore.DataAccess.csproj", "{B62E3AFF-DF1B-4E81-850E-FDC43DBC32D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EdaMonicaBookStore.DataAccess", "EdaMonicaBookStore.DataAccess\EdaMonicaBookStore.DataAccess.csproj", "{B62E3AFF-DF1B-4E81-850E-FDC43DBC32D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdaMonicaBookStore.Models", "EdaMonicaBookStore.Models\EdaMonicaBookStore.Models.csproj", "{01D82BC5-C6B5-42CD-954A-4EA0980F9EA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EdaMonicaBookStore.Models", "EdaMonicaBookStore.Models\EdaMonicaBookStore.Models.csproj", "{01D82BC5-C6B5-42CD-954A-4EA0980F9EA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdaMonicaBookStore.Utility", "EdaMonicaBookStore.Utility\EdaMonicaBookStore.Utility.csproj", "{0343C163-A8B7-4224-B29F-2CED48FD9B84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EdaMonicaBookStore.Utility", "EdaMonicaBookStore.Utility\EdaMonicaBookStore.Utility.csproj", "{0343C163-A8B7-4224-B29F-2CED48FD9B84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -95,4 +95,13 @@ Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware
 -------------------------------------------------------------------------------------------------------------------------------2022-11-18 3:43
 2022-11-18 3:44PM started with the second part
 packagemanager console add-migration AdddefaultIdentityMigration
-20221118204111_AddDefaultIdentityMigration.cs
+20221118150935_AddDefaultIdentityMigration.cs
+updated databse
+checked for errors
+i follwed all steps almost finished part-1
+everything working well. not to get errors i rechecked step by step and noticed my database name entered wrongly so uninstalled all steps.
+-----------------------------------------------------------------------------------------------------------------------------------------
+2022-11-20 10:00AM
+Restarted assignment-2 and rebuild the solution but i have errors because i didi not remove categories which i entered in AddDncontext.cs, i correctted and
+rebuilt the solution and everything seems okay.
+changed Database name and installed migration
