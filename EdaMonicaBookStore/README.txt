@@ -92,4 +92,14 @@ MissingMethodException: Method not found: 'Boolean Microsoft.EntityFrameworkCore
 Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseErrorPageMiddleware.Invoke(HttpContext httpContext)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2022-11-18 At 1:27 I think i have finished part-1 and committed the changes
+---------------------------------------------------------------------------------------------------------------------------------------
+2022-11-20 At 12:48PM started with the second part of the project
+modified the database name
+added migration to default project EdaMonicaBookStore.Access
+name of the migration: 20221120174744_AddDefaultIdentityMigration.cs
+updated migration and I am getting an error
+Error Number:2714,State:6,Class:16
+There is already an object named 'AspNetRoles' in the database.
+
+
 
