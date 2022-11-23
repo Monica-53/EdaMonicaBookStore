@@ -100,6 +100,8 @@ name of the migration: 20221120174744_AddDefaultIdentityMigration.cs
 updated migration and I am getting an error
 Error Number:2714,State:6,Class:16
 There is already an object named 'AspNetRoles' in the database.
+--------------------------------------------------------------------------------------------------------------------
+2022-11-23 started working on the project
 
 
 
