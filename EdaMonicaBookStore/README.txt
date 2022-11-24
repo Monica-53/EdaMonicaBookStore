@@ -101,7 +101,12 @@ updated migration and I am getting an error
 Error Number:2714,State:6,Class:16
 There is already an object named 'AspNetRoles' in the database.
 --------------------------------------------------------------------------------------------------------------------
-2022-11-23 started working on the project
+2022-11-23,5:00 PMstarted working on the project
+not succeeded. lot of errors
+7:00Pm closing
+---------------------------------------------------------------------------------------------------------------
+2022-11-24 At 10:30 AM started working I repository added comments
+hope it goes well
 
 
 

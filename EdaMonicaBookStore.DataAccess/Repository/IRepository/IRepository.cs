@@ -8,11 +8,13 @@ namespace EdaMonicaBookStore.DataAccess.Repository.IRepository
 {
     public interface IRepository<T> where T : class
     {
-        T Get(int id);
+        T Get(int id); // retrieve a category from the database by id
+        //List of Categories based on requirements
+
         IEnumerable<T> GetAll(
            Expression<Func<T, bool>> filter = null,
            Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null,
-           string includeProperties = null
+           string includeProperties = null //useful for foreign key references
             );
 
 
