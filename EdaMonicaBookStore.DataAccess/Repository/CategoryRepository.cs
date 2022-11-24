@@ -21,6 +21,12 @@ namespace EdaMonicaBookStore.DataAccess.Repository
         {
             //use .NET LINQ to retreive the first or default category object
             // then pass the id as a generic entity which matches the category
+            var objFromDb = _db.Categories.FirstOrDefault(s => s.Id == category.Id);
+            if(objFromDb!=null)
+            {
+                objFromDb.Name = category.Name;
+                _db.SaveChanges();
+            }
         }
     }
 }
