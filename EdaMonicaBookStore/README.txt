@@ -107,6 +107,10 @@ not succeeded. lot of errors
 ---------------------------------------------------------------------------------------------------------------
 2022-11-24 At 10:30 AM started working I repository added comments
 hope it goes well
+-------------------------------------------------------------------------------------------------------------------
+2022-11-25 at 9:00 started, created IUnitOfWork.s, UnitOfWork.cs and I repository files and content added
+Fixed Errors, this took a while
+
 
 
 
