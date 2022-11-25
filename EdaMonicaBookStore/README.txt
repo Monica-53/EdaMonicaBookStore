@@ -110,6 +110,8 @@ hope it goes well
 -------------------------------------------------------------------------------------------------------------------
 2022-11-25 at 9:00 started, created IUnitOfWork.s, UnitOfWork.cs and I repository files and content added
 Fixed Errors, this took a while
+I am proceeding
+In_Layout.cshtml <a class="nav-link text-dark" asp-area="Admin" asp-controller="Category" asp-action="Index">Category</a> ,this change is made and ran the application to see the change
 
 
 
