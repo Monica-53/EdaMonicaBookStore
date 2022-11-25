@@ -5,7 +5,7 @@ using System.Text;
 
 namespace EdaMonicaBookStore.DataAccess.Repository.IRepository
 {
-    interface ISP_Call : IDisposable
+   public interface ISP_Call : IDisposable
     {
         //e.g first column of first row in the result set
 
