@@ -120,7 +120,7 @@ Upsertt.html is modified
 asp-action="Upsert" is added to index.cshtml and applications is run
 I don't see the desired output
 @section Scripts code added
-Updert POST added but I donot know if i have done this correctly
+Update POST added but I donot know if i have done this correctly
 I have 2 errors.
 
 
