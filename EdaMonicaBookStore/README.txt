@@ -122,6 +122,9 @@ I don't see the desired output
 @section Scripts code added
 Update POST added but I donot know if i have done this correctly
 I have 2 errors.
+2022-11-27 At 4:19PM, I have finished the assignment part-2 with 2 errors. 
+changes pushed to git hub
+----------------------------------------------------------------------------------------------------------------------------
 
 
 
