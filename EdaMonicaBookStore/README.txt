@@ -112,6 +112,20 @@ hope it goes well
 Fixed Errors, this took a while
 I am proceeding
 In_Layout.cshtml <a class="nav-link text-dark" asp-area="Admin" asp-controller="Category" asp-action="Index">Category</a> ,this change is made and ran the application to see the change
+-------------------------------------------------------------------------------------------------------------------------
+2022-11-27 1:30PM
+Created in Views>Shared created _CreaeAndBackToListButton.cshtml
+Created in Views>Shared created _EditAndBackToListButton.cshtml
+Upsertt.html is modified
+asp-action="Upsert" is added to index.cshtml and applications is run
+I don't see the desired output
+@section Scripts code added
+Updert POST added but I donot know if i have done this correctly
+I have 2 errors.
+
+
+
+
 
 
 
