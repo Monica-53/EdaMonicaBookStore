@@ -131,7 +131,8 @@ To Models folder added CoverType.cs
  Hope I am going in the right direction
  CoverType Repository Class and Irepository Interface are completed 
  I am committing changes to github
-
+ ---------------------------------------------------------------------------------------------------------------------------------------
+ 2022-1128 12:10 I think I have finished 3.1 of Assignment2
 
 
 
