@@ -125,7 +125,12 @@ I have 2 errors.
 2022-11-27 At 4:19PM, I have finished the assignment part-2 with 2 errors. 
 changes pushed to git hub
 ----------------------------------------------------------------------------------------------------------------------------
-
+2022-11-27   9:00PM started with Assignment part-3
+To Models folder added CoverType.cs
+ folders for Repository and IRepository  are created
+ Hope I am going in the right direction
+ CoverType Repository Class and Irepository Interface are completed 
+ I am committing changes to github
 
 
 
