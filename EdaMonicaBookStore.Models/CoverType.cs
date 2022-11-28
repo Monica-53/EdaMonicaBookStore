@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace EdaMonicaBookStore.Models
 {
-    class CoverType
+   public class CoverType
     {
             
         [Key]

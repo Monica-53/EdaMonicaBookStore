@@ -133,6 +133,8 @@ To Models folder added CoverType.cs
  I am committing changes to github
  ---------------------------------------------------------------------------------------------------------------------------------------
  2022-1128 12:10 I think I have finished 3.1 of Assignment2
+ Migration for CoverType is added 20221128180818_AddCoverTypeToDb
+
 
 
 

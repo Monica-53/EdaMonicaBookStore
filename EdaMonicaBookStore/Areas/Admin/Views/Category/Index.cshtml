@@ -1,5 +1,4 @@
-﻿
-@{
+﻿@{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
@@ -12,7 +11,7 @@
     </div>
     <div class="col-6 text-right">
         
-        <a class="btn btn-primary" href="Upsert"><i class="fas fa-plus"></i> &nbsp; Create New Category</a>
+        <a class="btn btn-primary" asp-action="Upsert"><i class="fas fa-plus"></i> &nbsp; Create New Category</a>
     </div>
 </div>
 
@@ -28,7 +27,7 @@
     </table>
 </div>
 
-<div class="text-center">
+@*<div class="text-center">
     <a href="/Admin/Category/Upsert/id" class="btn btn-success text-white" style="cursor:pointer">
         <i class="fa fa-pencil" aria-hidden="true"></i>
         &nbsp;
@@ -37,7 +36,7 @@
         <i class="fa fa-trash" aria-hidden="true"></i>
         &nbsp;
     </a>
-</div> 
+</div>*@ 
 @section Scripts{ 
 <script src="~/js/category.js"></script>
 }
