@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace EdaMonicaBookStore.DataAccess.Repository.IRepository
 {
@@ -8,6 +10,10 @@ namespace EdaMonicaBookStore.DataAccess.Repository.IRepository
     {
         ICategoryRepository Category { get; }
         ICoverTypeRepository CoverType { get; }
-        public void Save() { }
+
+        IProductRepository Product { get; }
+
+        ISP_Call SP_Call { get; }
+        void Save();
     }
 }

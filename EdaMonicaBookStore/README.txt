@@ -140,10 +140,15 @@ To Models folder added CoverType.cs
  Migration for product is installend in package Managet Console
  While installing migrations i committed couple of mistakes one in the "selection of Default project" and the secondone, using wrong migration command
  Errors fixed and migration is done
- Migration for product is: 20221129201210_AddProductTODb.cs
+ Migration for product is: 20221129201210_AddProductTODb.cs,Databse updated.
  pushing the changes to Github
  Now the time is 3:20PM. on 11/29/2022
-
+---------------------------------------------------------------------------------------------------------------------------------------------
+AT 4:23 on !1/29/2022
+ Migration added to validation 
+ The Migration for validation is 20221129203207_AddValidationToProduct.cs
+ IProductRepository Interface and ProductRepository are created and  ProductRepository updated
+ updated
 
 
 
