@@ -132,8 +132,17 @@ To Models folder added CoverType.cs
  CoverType Repository Class and Irepository Interface are completed 
  I am committing changes to github
  ---------------------------------------------------------------------------------------------------------------------------------------
- 2022-1128 12:10 I think I have finished 3.1 of Assignment2
+ 2022-11-28 12:10 I think I have finished 3.1 of Assignment2
  Migration for CoverType is added 20221128180818_AddCoverTypeToDb
+ --------------------------------------------------------------------------------------------------------------------------------------------
+ 2022-11-29 1:30 started working on the project
+ Assignment-3 part-1 Worked on CoverType.controller.cs and Prodcts 
+ Migration for product is installend in package Managet Console
+ While installing migrations i committed couple of mistakes one in the "selection of Default project" and the secondone, using wrong migration command
+ Errors fixed and migration is done
+ Migration for product is: 20221129201210_AddProductTODb.cs
+ pushing the changes to Github
+ Now the time is 3:20PM. on 11/29/2022
 
 
 
