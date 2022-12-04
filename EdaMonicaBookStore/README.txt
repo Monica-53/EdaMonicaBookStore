@@ -155,7 +155,7 @@ AT 4:23 on !1/29/2022
  In Areas, Adminc Controller, ProductController.cs is created and content is filled in
  In ViewModel in the project folder ProductVM.cs is created 
  Microsoft.AspNetCoreMvc.ViewFeatures package is installed
- In Production Controller.cs, API calls are modified to include the Catefory and CoverType properties
+ In ProductController.cs, API calls are modified to include the Catefory and CoverType properties
  I have some errors both in ProductVM.cs and ProductController.cs these are to be fixed.
 
 
