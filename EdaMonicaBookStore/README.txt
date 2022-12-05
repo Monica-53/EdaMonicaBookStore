@@ -157,6 +157,10 @@ AT 4:23 on !1/29/2022
  Microsoft.AspNetCoreMvc.ViewFeatures package is installed
  In ProductController.cs, API calls are modified to include the Catefory and CoverType properties
  I have some errors both in ProductVM.cs and ProductController.cs these are to be fixed.
+ I am in the same place where I have started, I am not able to proceed because there is some build in error 
+ I am thinking of closing because I have no outcome at all
+ 2022-12-04, Now the time is 9:19PM
+
 
 
 

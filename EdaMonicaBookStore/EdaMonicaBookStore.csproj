@@ -43,4 +43,8 @@
     <ProjectReference Include="..\EdaMonicaBookStore.Utility\EdaMonicaBookStore.Utility.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Views\Product\" />
+  </ItemGroup>
+
 </Project>
