@@ -5,8 +5,8 @@ using System.Text;
 
 namespace EdaMonicaBookStore.DataAccess.Repository.IRepository
 {
-    interface IProductRepository
+    public interface IProductRepository
     {
-
+        void Update(Product product);
     }
 }

@@ -36,8 +36,9 @@ namespace EdaMonicaBookStore.Models
         [Required]
 
         public int CoverTypeId {get; set; }  //Foreign key reference
-        [ForeignKey("CategoryId")]
+        [ForeignKey("CoverTypeId")]
         public CoverType CoverType { get; set; }
+       
 
 
 

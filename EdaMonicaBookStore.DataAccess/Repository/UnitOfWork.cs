@@ -4,10 +4,11 @@ using EdaMonicaBookStore.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 
-namespace EdaMonicaBookStore.DataAccess.Repository.IRepository
-{
+namespace EdaMonicaBookStore.DataAccess.Repository
+{ 
     public class UnitOfWork : IUnitOfWork //make the method public to access the class
     {
         private readonly ApplicationDbContext _db; //using the statement
@@ -17,6 +18,7 @@ namespace EdaMonicaBookStore.DataAccess.Repository.IRepository
             _db = db;
             Category = new CategoryRepository(_db);
             CoverType = new CoverTypeRepository(_db);
+            Product = new ProductRepository(_db);
            
             SP_Call = new SP_Call(_db);
         }
