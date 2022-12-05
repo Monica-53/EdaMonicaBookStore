@@ -160,8 +160,11 @@ AT 4:23 on !1/29/2022
  I am in the same place where I have started, I am not able to proceed because there is some build in error 
  I am thinking of closing because I have no outcome at all
  2022-12-04, Now the time is 9:19PM
-
-
+ -----------------------------------------------------------------------------------------------------------------------------------------
+ 2022-11-05 10:00PM started working with the Assignment-2 Section-2,
+ I had many errors and I tried and fixed them
+ created ProductVM.cs once again and data updated in productController.cs 
+ and I ahve an error still
 
 
 
