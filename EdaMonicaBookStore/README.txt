@@ -165,6 +165,9 @@ AT 4:23 on !1/29/2022
  I had many errors and I tried and fixed them
  created ProductVM.cs once again and data updated in productController.cs 
  and I ahve an error still
-
-
+ ------------------------------------------------------------------------------------------------------------------------------------
+ AT 1:08PM 2022-12-05
+ Created CoverType folder and added Index.cshtml and Upsert.html
+ In www.root, product.js, and cover.js are added 
+ tested the app
 
