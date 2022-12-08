@@ -1,7 +1,8 @@
-﻿
-using EdaMonicaBookStore.DataAccess.Repository.IRepository;
+﻿using EdaMonicaBookStore.DataAccess.Repository.IRepository;
 using EdaMonicaBookStore.Models;
 using Microsoft.AspNetCore.Mvc;
+using EdaMonicaBookStore.Utility;
+using Dapper;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,6 +34,10 @@ namespace EdaMonicaBookStore.Areas.Admin.Controllers
                 //this is for create
                 return View(coverType);
             }
+
+            //this is for edit
+            var parameter = new DynamicParameters();
+            parameter.Add("@Id", id);
             coverType = _unitOfWork.CoverType.Get(id.GetValueOrDefault());
             if (coverType == null)
             {
@@ -48,6 +53,8 @@ namespace EdaMonicaBookStore.Areas.Admin.Controllers
             if (ModelState.IsValid) //checks all validations in the model(e.g. Name Required) to increase security
 
             {
+                var parameter = new DynamicParameters();
+                parameter.Add("@Name", coverType.Name);
                 if (coverType.Id == 0)
 
 
