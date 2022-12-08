@@ -1,6 +1,6 @@
 ﻿using EdaMonicaBookStore.DataAccess.Repository.IRepository;
 using EdaMonicaBookStore.DataAccess.Data;
-using EdaMonicaBookStore.Models;
+using System.Linq;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -26,10 +26,6 @@ namespace EdaMonicaBookStore.DataAccess.Repository
         public ICategoryRepository Category { get; private set; }
         public ICoverTypeRepository CoverType { get; private set; }
         public IProductRepository Product { get; private set; }
-
-       
-
-
         public ISP_Call SP_Call { get; private set; }
 
         public void Dispose()
