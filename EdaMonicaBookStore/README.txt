@@ -170,4 +170,10 @@ AT 4:23 on !1/29/2022
  Created CoverType folder and added Index.cshtml and Upsert.html
  In www.root, product.js, and cover.js are added 
  tested the app
+ ---------------------------------------------------------------------------------------------------------------------------
+ 2022-1-08, At 9:30AM started going through my application if I have missed out any content
+ started with Areas,Admin,Controllers, CategoryController.cs,CoverController.cs,ProductController.cs are rechecked
+ Views Index.cshtml,Upsert.cshtml under Category,CoverType and Product are rechecked and missing content is filledin.
+ Category.cs,CoverType.cs, Product.cs are also rechecked
+ Rebuild the solution and ran the application, my delete button does not work and also image is not shown. These are to be fixed.
 
