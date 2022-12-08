@@ -1,6 +1,4 @@
-﻿
-
-@model IEnumerable<EdaMonicaBookStore.Models.Product>
+﻿@model IEnumerable<EdaMonicaBookStore.Models.Product>
 
 <div class="row pb-3 backgroundWhite">
 
@@ -18,7 +16,7 @@
                         <div style="padding-left:5px;">
                             <p>List Price: <strike><b class="">$ @product.ListPrice.ToString("0.00")</b></strike></p>
                         </div>
-                     
+                    
                     </div>
                     <div>
                         <a asp-action="Details" class="btn btn-primary form-control" asp-route-id="@product.Id">Details</a>
