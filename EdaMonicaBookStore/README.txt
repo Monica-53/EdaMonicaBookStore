@@ -161,7 +161,7 @@ AT 4:23 on !1/29/2022
  I am thinking of closing because I have no outcome at all
  2022-12-04, Now the time is 9:19PM
  -----------------------------------------------------------------------------------------------------------------------------------------
- 2022-11-05 10:00PM started working with the Assignment-2 Section-2,
+ 2022-12-05 10:00PM started working with the Assignment-2 Section-2,
  I had many errors and I tried and fixed them
  created ProductVM.cs once again and data updated in productController.cs 
  and I ahve an error still
@@ -171,9 +171,11 @@ AT 4:23 on !1/29/2022
  In www.root, product.js, and cover.js are added 
  tested the app
  ---------------------------------------------------------------------------------------------------------------------------
- 2022-1-08, At 9:30AM started going through my application if I have missed out any content
+ 2022-12-08, At 9:30AM started going through my application if I have missed out any content
  started with Areas,Admin,Controllers, CategoryController.cs,CoverController.cs,ProductController.cs are rechecked
  Views Index.cshtml,Upsert.cshtml under Category,CoverType and Product are rechecked and missing content is filledin.
  Category.cs,CoverType.cs, Product.cs are also rechecked
  Rebuild the solution and ran the application, my delete button does not work and also image is not shown. These are to be fixed.
+ ---------------------------------------------------------------------------------------------------------------------------------------------------
+ 2022-12-08 at 2:00PM. Trying to fix errors. ow the time is 5:11PM
 
