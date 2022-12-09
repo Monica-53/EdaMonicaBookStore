@@ -21,7 +21,7 @@ namespace EdaMonicaBookStore.Models
         public string ISBN { get; set; }
 
         [Required]
-        public int Author { get; set; }
+        public string Author { get; set; }
 
         [Required]
         [Range(1, 10000)]

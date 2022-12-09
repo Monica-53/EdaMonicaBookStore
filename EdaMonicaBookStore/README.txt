@@ -181,3 +181,5 @@ AT 4:23 on !1/29/2022
  -------------------------------------------------------------------------------------------------------------
  2022-12-09 8:30AM, I started checking all my files and then made some updated few things 
  at about 11:21 it seems i have fixed my errors.
+
+Added and updated migration 20221209162856_ChangeProductAuthorType
