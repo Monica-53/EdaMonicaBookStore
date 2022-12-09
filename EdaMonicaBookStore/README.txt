@@ -177,5 +177,7 @@ AT 4:23 on !1/29/2022
  Category.cs,CoverType.cs, Product.cs are also rechecked
  Rebuild the solution and ran the application, my delete button does not work and also image is not shown. These are to be fixed.
  ---------------------------------------------------------------------------------------------------------------------------------------------------
- 2022-12-08 at 2:00PM. Trying to fix errors. ow the time is 5:11PM
-
+ 2022-12-08 at 2:00PM. Trying to fix errors. now the time is 5:11PM
+ -------------------------------------------------------------------------------------------------------------
+ 2022-12-09 8:30AM, I started checking all my files and then made some updated few things 
+ at about 11:21 it seems i have fixed my errors.
