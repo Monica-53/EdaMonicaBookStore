@@ -183,3 +183,5 @@ AT 4:23 on !1/29/2022
  at about 11:21 it seems i have fixed my errors.
 
 Added and updated migration 20221209162856_ChangeProductAuthorType
+------------------------------------------------------------------------------------------------------------------
+2022-12-09, At 2:07PM, I have finished my application. checked and rechecked and it is time to submit my final project.
