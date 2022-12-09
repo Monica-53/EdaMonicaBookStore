@@ -1,6 +1,6 @@
 # EdaMonicaBookStore
 Built the initial default application
-prepend my name - 'MonicaBookStore'
+prepend my name - 'EdaMonicaBookStore'
 Individual Account Authentication
 Added Razor runtime
 In this Application I have used packages like EntityFameworkCore,SQL Server,Identity.UI,Dapper, and I have mentioned only few packages
